@@ -1,0 +1,19 @@
+{
+  "name": "codepen-downloader",
+  "version": "1.0.0",
+  "description": "downloads codepens as single html files",
+  "type": "module",
+  "main": "download.js",
+  "scripts": {
+    "start": "node download.js"
+  },
+  "dependencies": {
+  "puppeteer": "latest",
+  "puppeteer-core": "latest",
+  "puppeteer-extra": "3.3.6",
+  "puppeteer-extra-plugin-stealth": "latest",
+  "jsdom": "latest"
+  },
+  "author": "adevra",
+  "license": "MIT"
+}
