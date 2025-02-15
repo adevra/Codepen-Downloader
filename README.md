@@ -1,4 +1,4 @@
-# Codepen Downloader
+# Codepen Downloader 📩
 
 A simple Node.js script that **downloads and cleans CodePen HTML files**, also removing unnecessary `<canvas>` elements while keeping Three.js functionality intact.
 
